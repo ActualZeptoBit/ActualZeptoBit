@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ActualZeptoBit, and my actual name is Evan Wellington
+- 👋 Hi, I’m @ActualZeptoBit, and my real name is Evan Wellington
 - 👀 I’m interested in learning and trying new things
 - 🌱 I’m currently learning advanced c++ and rust
 
