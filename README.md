@@ -1,4 +1,4 @@
--  Hi, I’m @ActualZeptoBit, and my real name is Evan Wellington
+-  Hi, I’m @ActualZeptoBit
 -  I’m interested in learning and trying new things
 -  I’m currently learning advanced c++ and rust
 -  My current big project is a database project, and I have been working on it since june 24, 2022
